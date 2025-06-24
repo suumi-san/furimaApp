@@ -53,6 +53,7 @@ php artisan db:seed
 
 ## ER 図
 
+![furimaAppER net](https://github.com/user-attachments/assets/c4492b76-c1c3-499e-83f5-1f1fed9cc892)
 
 
 
